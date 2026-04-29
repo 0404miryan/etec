@@ -14,7 +14,7 @@ tempo_dias = tempo_horas / 24
 
 # Saída de dados
 print("\n==========================================")
-print(f"Astronauta {nome}, bem-vindo à simulação!")
+print(f"Astronauta {noe}, bem-vindo à simulação!")
 print(f"A viagem terá uma distância de {distancia:.0f} km.")
 print(f"Com velocidade média de {velocidade:.0f} km/h, o tempo estimado é:")
 print(f"{tempo_horas:.2f} horas ({tempo_dias:.2f} dias).")
